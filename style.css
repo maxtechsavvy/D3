@@ -9,7 +9,7 @@ html, body{
 }
 
 body {
-    background-color: #c9c7c1;
+    background-color: #030c0f;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -28,7 +28,7 @@ body {
 }
 
 .county {
-    fill: #8dcdf0;
+    fill: #8edeb3;
     stroke: #fff;
     stroke-width: 0.5;
 }
